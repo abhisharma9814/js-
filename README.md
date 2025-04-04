@@ -1,2 +1,3 @@
 # js-
-a code for javascript
+A code for javascript
+Author - Abhishek sharma
